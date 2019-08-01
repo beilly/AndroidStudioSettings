@@ -1,0 +1,10 @@
+/Users/beilly/opt/jdk/jdk-9.0.4.jdk/Contents/Home 
+/Users/beilly/opt/jdk/jdk-9.0.4.jdk/Contents/Home 
+whereis git
+cd .ssh
+ls -al
+ssh-keygen -t rsa -C "shibenli@mmfintec.com"
+cd ~/Library/Android/sdk/
+./tools/android list sdk
+./tools/android sdk
+./tools/android list sdk

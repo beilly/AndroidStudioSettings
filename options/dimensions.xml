@@ -1,0 +1,32 @@
+<application>
+  <component name="DimensionService">
+    <location key="#HTTP_Proxy.0.0.2880.1800@192dpi" x="640" y="254" />
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="814" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="446" y="226" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="798" y="588" />
+    <location key="ProcessPopupWindow.0.0.2880.1800@192dpi" x="1704" y="1404" />
+    <location key="AndroidProcessChooserDialog.0.0.2880.1800@192dpi" x="1150" y="468" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2880.1800@192dpi" x="954" y="728" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="782" y="284" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2880.1800@192dpi" x="368" y="224" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2880.1800@192dpi" x="860" y="542" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2880.1800@192dpi" x="1066" y="338" />
+    <location key="search.everywhere.popup.0.0.2880.1800@192dpi" x="770" y="426" />
+    <location key="StructurePopup.0.0.2880.1800@192dpi" x="900" y="400" />
+    <location key="CommitChangelistDialog2.0.0.2880.1800@192dpi" x="350" y="140" />
+    <location key="Vcs.Push.Dialog.0.0.2880.1800@192dpi" x="808" y="390" />
+    <location key="NewModule_or_Project.wizard.0.0.2880.1800@192dpi" x="698" y="324" />
+    <location key="#Plugins.0.0.2880.1800@192dpi" x="640" y="138" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.2880.1800@192dpi" x="936" y="610" />
+    <size key="ProcessPopupWindow.0.0.2880.1800@192dpi" width="902" height="352" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1316" height="1278" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="2796" height="450" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="2796" height="450" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="2796" height="450" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="2796" height="450" />
+    <size key="search.everywhere.popup.0.0.2880.1800@192dpi" width="1340" height="1352" />
+    <size key="StructurePopup.0.0.2880.1800@192dpi" width="1080" height="1048" />
+    <size key="CommitChangelistDialog2.0.0.2880.1800@192dpi" width="2236" height="1564" />
+    <size key="#Plugins.0.0.2880.1800@192dpi" width="1478" height="958" />
+  </component>
+</application>
